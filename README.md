@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Sebastian, software developer engineer in test.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning about AI and Machine Learning, I'd love to be able to find the best way to converge AI and test automation practices.
+- 💞️ I’m looking to collaborate on test automation projects
+- 📫 How to reach me:
+- https://www.linkedin.com/in/svillegasz/
